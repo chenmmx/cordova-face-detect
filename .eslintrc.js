@@ -42,6 +42,7 @@ module.exports = {
       "react/no-array-index-key": 'off',
       "react/forbid-prop-types": 'off',
       "class-methods-use-this": "off",
-      "import/no-unresolved": 'off'
+      "import/no-unresolved": 'off',
+      "react/no-unused-state": 1
     }
   };
